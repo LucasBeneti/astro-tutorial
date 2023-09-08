@@ -67,7 +67,7 @@ html.dark {
 }
 
 .dark .nav-links a {
-    color: '#fff';
+    color: #fff;
 }
 
 @media screen and (min-width: 636px) {
